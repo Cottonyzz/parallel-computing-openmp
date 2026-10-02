@@ -1,0 +1,279 @@
+OpenMP is supported -- version = 201511
+	  0:     85.82 ,    36.04 , Murfreesboro,TN
+	  1:    116.27 ,    37.16 , LasVegas,NV
+ 1 ,  331 ,    2 ,   89.897
+OpenMP is supported -- version = 201511
+	  0:     77.42 ,    39.58 , Washington,DC
+	  1:     90.98 ,    33.99 , Memphis,TN
+	  2:    116.71 ,    37.28 , LasVegas,NV
+ 1 ,  331 ,    3 ,   77.870
+OpenMP is supported -- version = 201511
+	  0:     74.24 ,    40.72 , Newark,NJ
+	  1:     83.91 ,    35.14 , Knoxville,TN
+	  2:     98.01 ,    35.00 , OklahomaCity,OK
+	  3:    118.27 ,    37.15 , Visalia,CA
+ 1 ,  331 ,    4 ,  129.360
+OpenMP is supported -- version = 201511
+	  0:     74.24 ,    40.72 , Newark,NJ
+	  1:    108.10 ,    36.56 , RioRancho,NM
+	  2:     82.85 ,    34.20 , Athens,GA
+	  3:     94.64 ,    35.37 , BrokenArrow,OK
+	  4:    119.45 ,    37.39 , Clovis,CA
+ 1 ,  331 ,    5 ,  144.189
+OpenMP is supported -- version = 201511
+	  0:     74.10 ,    40.73 , JerseyCity,NJ
+	  1:     92.01 ,    41.15 , CedarRapids,IA
+	  2:    111.39 ,    33.45 , Mesa,AZ
+	  3:     81.58 ,    28.82 , Orlando,FL
+	  4:    120.86 ,    45.93 , Gresham,OR
+	  5:    117.77 ,    34.11 , Pomona,CA
+	  6:     96.70 ,    31.77 , Waco,TX
+	  7:    106.77 ,    39.74 , Boulder,CO
+	  8:     83.57 ,    37.95 , Lexington,KY
+	  9:    121.65 ,    37.98 , Antioch,CA
+ 1 ,  331 ,   10 ,  113.531
+OpenMP is supported -- version = 201511
+	  0:     73.03 ,    41.52 , Waterbury,CT
+	  1:    112.53 ,    35.42 , Peoria,AZ
+	  2:    119.66 ,    36.04 , Visalia,CA
+	  3:     96.97 ,    31.62 , Waco,TX
+	  4:    120.86 ,    45.93 , Gresham,OR
+	  5:     80.99 ,    27.33 , PortSt.Lucie,FL
+	  6:     86.47 ,    33.49 , Birmingham,AL
+	  7:     78.58 ,    36.00 , Raleigh,NC
+	  8:     82.22 ,    41.80 , Cleveland,OH
+	  9:     87.51 ,    40.93 , Joliet,IL
+	 10:     94.56 ,    40.89 , DesMoines,IA
+	 11:    105.34 ,    38.45 , ColoradoSprings,CO
+	 12:    118.41 ,    34.17 , Burbank,CA
+	 13:    117.47 ,    33.72 , Corona,CA
+	 14:    121.80 ,    38.07 , Antioch,CA
+ 1 ,  331 ,   15 ,  168.454
+OpenMP is supported -- version = 201511
+	  0:     71.89 ,    42.10 , Worcester,MA
+	  1:    121.03 ,    47.58 , Bellevue,WA
+	  2:    120.46 ,    39.63 , Reno,NV
+	  3:     96.22 ,    29.13 , SugarLand,TX
+	  4:     88.08 ,    41.50 , Joliet,IL
+	  5:     78.79 ,    35.47 , Cary,NC
+	  6:    119.66 ,    36.04 , Visalia,CA
+	  7:     97.41 ,    33.42 , Denton,TX
+	  8:     85.75 ,    32.61 , Montgomery,AL
+	  9:    117.65 ,    34.02 , Ontario,CA
+	 10:     80.98 ,    27.10 , PortSt.Lucie,FL
+	 11:    106.77 ,    39.74 , Boulder,CO
+	 12:     75.05 ,    40.63 , Allentown,PA
+	 13:     82.76 ,    41.65 , Dearborn,MI
+	 14:    121.75 ,    38.23 , Antioch,CA
+	 15:    111.39 ,    33.45 , Mesa,AZ
+	 16:     86.22 ,    36.62 , Nashville,TN
+	 17:    120.73 ,    44.60 , Bend,OR
+	 18:     94.40 ,    41.06 , DesMoines,IA
+	 19:    122.18 ,    37.54 , Hayward,CA
+ 1 ,  331 ,   20 ,  117.877
+OpenMP is supported -- version = 201511
+	  0:     74.50 ,    40.78 , Woodbridge,NJ
+	  1:    121.67 ,    37.41 , SanJose,CA
+	  2:     78.82 ,    42.17 , Buffalo,NY
+	  3:    120.93 ,    39.10 , Roseville,CA
+	  4:     94.48 ,    44.87 , Minneapolis,MN
+	  5:    119.60 ,    36.65 , Clovis,CA
+	  6:    105.18 ,    39.06 , ColoradoSprings,CO
+	  7:     89.23 ,    42.98 , Madison,WI
+	  8:    113.17 ,    42.36 , SaltLakeCity,UT
+	  9:     80.98 ,    27.10 , PortSt.Lucie,FL
+	 10:     73.10 ,    41.67 , Waterbury,CT
+	 11:     86.03 ,    32.56 , Montgomery,AL
+	 12:     76.62 ,    37.67 , NewportNews,VA
+	 13:    122.87 ,    38.09 , SantaRosa,CA
+	 14:    111.39 ,    33.45 , Mesa,AZ
+	 15:     94.79 ,    38.59 , Olathe,KS
+	 16:     88.97 ,    41.07 , Peoria,IL
+	 17:    118.02 ,    34.00 , ElMonte,CA
+	 18:    116.93 ,    34.01 , MorenoValley,CA
+	 19:     97.95 ,    32.87 , FortWorth,TX
+	 20:    119.26 ,    34.53 , Ventura,CA
+	 21:     79.93 ,    34.72 , Concord,NC
+	 22:     86.39 ,    36.37 , Nashville,TN
+	 23:     71.21 ,    42.29 , Cambridge,MA
+	 24:    121.03 ,    47.58 , Bellevue,WA
+	 25:     94.57 ,    30.38 , Beaumont,TX
+	 26:    122.58 ,    45.04 , Salem,OR
+	 27:     98.17 ,    27.57 , CorpusChristi,TX
+	 28:     84.14 ,    41.30 , Toledo,OH
+	 29:    122.17 ,    37.92 , Berkeley,CA
+ 1 ,  331 ,   30 ,  125.950
+OpenMP is supported -- version = 201511
+	  0:     78.15 ,    42.39 , Buffalo,NY
+	  1:     95.65 ,    36.07 , BrokenArrow,OK
+	  2:    122.46 ,    37.89 , Richmond,CA
+	  3:    122.26 ,    47.55 , Renton,WA
+	  4:    119.60 ,    36.65 , Clovis,CA
+	  5:    117.67 ,    33.81 , Anaheim,CA
+	  6:     96.88 ,    32.97 , Carrollton,TX
+	  7:     97.76 ,    26.57 , Edinburg,TX
+	  8:     79.48 ,    35.57 , Greensboro,NC
+	  9:     84.23 ,    40.98 , FortWayne,IN
+	 10:     99.49 ,    27.56 , Laredo,TX
+	 11:     82.36 ,    27.69 , St.Petersburg,FL
+	 12:    113.32 ,    38.49 , St.George,UT
+	 13:     76.62 ,    37.67 , NewportNews,VA
+	 14:     94.47 ,    41.29 , DesMoines,IA
+	 15:     87.60 ,    34.06 , Tuscaloosa,AL
+	 16:    110.66 ,    33.44 , Mesa,AZ
+	 17:    122.21 ,    44.06 , Bend,OR
+	 18:     80.29 ,    25.92 , Hialeah,FL
+	 19:     97.61 ,    30.46 , RoundRock,TX
+	 20:     80.32 ,    33.26 , NorthCharleston,SC
+	 21:     88.76 ,    41.47 , Aurora,IL
+	 22:     82.75 ,    30.16 , Gainesville,FL
+	 23:     84.31 ,    33.96 , SandySprings,GA
+	 24:     74.35 ,    40.58 , Woodbridge,NJ
+	 25:     80.26 ,    27.01 , WestPalmBeach,FL
+	 26:    101.58 ,    33.02 , Lubbock,TX
+	 27:     93.92 ,    30.15 , Beaumont,TX
+	 28:     80.96 ,    28.18 , Orlando,FL
+	 29:     81.61 ,    32.68 , Savannah,GA
+	 30:     73.10 ,    41.67 , Waterbury,CT
+	 31:    105.21 ,    40.18 , Boulder,CO
+	 32:    122.73 ,    45.43 , Portland,OR
+	 33:    119.03 ,    34.54 , Ventura,CA
+	 34:    120.46 ,    39.63 , Reno,NV
+	 35:     80.20 ,    26.15 , FortLauderdale,FL
+	 36:     71.13 ,    41.85 , Brockton,MA
+	 37:    116.77 ,    45.22 , Meridian,ID
+	 38:     71.24 ,    42.48 , Cambridge,MA
+	 39:    121.72 ,    37.85 , Antioch,CA
+ 1 ,  331 ,   40 ,  217.838
+OpenMP is supported -- version = 201511
+	  0:     74.08 ,    40.68 , JerseyCity,NJ
+	  1:     98.10 ,    26.77 , Edinburg,TX
+	  2:     83.90 ,    39.64 , Dayton,OH
+	  3:     85.24 ,    33.60 , SouthFulton,GA
+	  4:     85.45 ,    36.84 , Louisville,KY
+	  5:    119.60 ,    36.65 , Clovis,CA
+	  6:     77.31 ,    36.38 , NewportNews,VA
+	  7:    119.04 ,    35.35 , Bakersfield,CA
+	  8:     83.74 ,    42.42 , AnnArbor,MI
+	  9:     82.42 ,    28.83 , Gainesville,FL
+	 10:     80.43 ,    34.46 , Columbia,SC
+	 11:    114.74 ,    36.40 , NorthLasVegas,NV
+	 12:     85.94 ,    40.50 , Fishers,IN
+	 13:    112.00 ,    33.37 , Tempe,AZ
+	 14:    122.26 ,    47.55 , Renton,WA
+	 15:    117.33 ,    34.47 , Victorville,CA
+	 16:    117.44 ,    34.03 , JurupaValley,CA
+	 17:    108.55 ,    45.79 , Billings,MT
+	 18:    101.58 ,    33.02 , Lubbock,TX
+	 19:     88.97 ,    41.99 , Rockford,IL
+	 20:     81.06 ,    41.00 , Akron,OH
+	 21:     91.08 ,    31.55 , BatonRouge,LA
+	 22:     88.77 ,    37.08 , Clarksville,TN
+	 23:    104.93 ,    39.71 , Denver,CO
+	 24:    122.17 ,    37.92 , Berkeley,CA
+	 25:     71.21 ,    42.29 , Cambridge,MA
+	 26:    117.13 ,    32.95 , SanDiego,CA
+	 27:     95.18 ,    29.78 , Pasadena,TX
+	 28:     77.54 ,    43.03 , Rochester,NY
+	 29:     76.90 ,    39.01 , Washington,DC
+	 30:     94.34 ,    44.32 , Minneapolis,MN
+	 31:     75.31 ,    40.30 , Philadelphia,PA
+	 32:    116.40 ,    43.60 , Meridian,ID
+	 33:    121.67 ,    37.41 , SanJose,CA
+	 34:     97.61 ,    30.46 , RoundRock,TX
+	 35:     95.04 ,    38.65 , Olathe,KS
+	 36:    120.93 ,    39.10 , Roseville,CA
+	 37:    111.98 ,    40.69 , WestValleyCity,UT
+	 38:     73.03 ,    41.77 , Waterbury,CT
+	 39:    111.65 ,    40.25 , Provo,UT
+	 40:    117.17 ,    33.58 , Murrieta,CA
+	 41:    117.33 ,    47.67 , Spokane,WA
+	 42:    119.63 ,    34.47 , Ventura,CA
+	 43:    106.64 ,    33.64 , LasCruces,NM
+	 44:     80.40 ,    26.36 , CoralSprings,FL
+	 45:    117.93 ,    33.85 , Fullerton,CA
+	 46:    118.38 ,    34.23 , Burbank,CA
+	 47:     96.94 ,    33.22 , Frisco,TX
+	 48:    122.58 ,    45.04 , Salem,OR
+	 49:    122.87 ,    38.09 , SantaRosa,CA
+ 1 ,  331 ,   50 ,  216.464
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,    2 ,   18.440
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,    3 ,   11.657
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,    4 ,   15.035
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,    5 ,   18.188
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,   10 ,   38.782
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,   15 ,   71.838
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,   20 ,   87.934
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,   30 ,  143.288
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,   40 ,  166.545
+OpenMP is supported -- version = 201511
+ 2 ,  331 ,   50 ,  179.626
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,    2 ,    5.809
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,    3 ,    8.559
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,    4 ,   12.032
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,    5 ,   14.810
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,   10 ,   28.580
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,   15 ,   43.761
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,   20 ,   61.392
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,   30 ,  116.641
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,   40 ,  125.222
+OpenMP is supported -- version = 201511
+ 4 ,  331 ,   50 ,  159.096
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,    2 ,    6.469
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,    3 ,   10.080
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,    4 ,   11.659
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,    5 ,   14.444
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,   10 ,   30.984
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,   15 ,   42.053
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,   20 ,   55.742
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,   30 ,   82.472
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,   40 ,  119.504
+OpenMP is supported -- version = 201511
+ 6 ,  331 ,   50 ,  141.540
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,    2 ,    5.049
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,    3 ,    0.831
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,    4 ,   10.904
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,    5 ,   13.615
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,   10 ,   27.991
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,   15 ,   47.290
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,   20 ,   51.841
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,   30 ,   83.138
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,   40 ,  110.412
+OpenMP is supported -- version = 201511
+ 8 ,  331 ,   50 ,  132.445
